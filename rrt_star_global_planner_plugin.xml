@@ -1,0 +1,6 @@
+ <library path="lib/librrt_star_global_planner_lib">
+  <class name="rrt_star_global_planner/RRTStarPlanner" type="rrt_star_global_planner::RRTStarPlanner" 
+  base_class_type="nav_core::BaseGlobalPlanner">
+    <description>This is a global planner plugin plugin.</description>
+  </class>
+ </library>

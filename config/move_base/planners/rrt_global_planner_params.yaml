@@ -1,0 +1,9 @@
+RRTPlanner:
+  maxsamples: 30000
+
+RRTStarPlanner:
+  goal_tolerance: 0.2
+  radius: 1.05
+  epsilon: 0.21
+  max_num_nodes: 10001
+  min_num_nodes: 1501
